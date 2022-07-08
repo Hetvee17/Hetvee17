@@ -8,10 +8,7 @@
 - 👯 I’m looking to collaborate on **Web Application Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hetvee17](https://github.com/Hetvee17)
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hetvee-sakaria-635a7115b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hetvee-sakaria-635a7115b?trk=profile-badge">Hetvee Sakaria</a></div>
               
-
 - 💬 Ask me about **C/C++, OOP, Javascript, React, Python, MySQL, Node Js, Redux, React Native**
 
 - 📫 How to reach me **hetu.sakaria@gmail.com**
@@ -20,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hetvee sakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hetvee sakaria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hetvee sakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hetvee sakaria" height="30" width="40" /></a><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hetvee-sakaria-635a7115b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hetvee-sakaria-635a7115b?trk=profile-badge">Hetvee Sakaria</a></div>
+
 <a href="https://www.codechef.com/users/hetvee_sakaria" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hetvee_sakaria" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hetu_sakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hetu_sakaria" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hetvee_sakaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hetvee_sakaria" height="30" width="40" /></a>
