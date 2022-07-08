@@ -9,6 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hetvee17](https://github.com/Hetvee17)
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="hetvee-sakaria-635a7115b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/hetvee-sakaria-635a7115b?trk=profile-badge">Hetvee Sakaria</a></div>
+              
+
 - 💬 Ask me about **C/C++, OOP, Javascript, React, Python, MySQL, Node Js, Redux, React Native**
 
 - 📫 How to reach me **hetu.sakaria@gmail.com**
