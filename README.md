@@ -1,4 +1,4 @@
-<h1 align="center">Hola, I'm Hetvee sakaria</h1>
+<h1 align="center">Hello, I'm Hetvee sakaria</h1>
 <h3 align="center">A Girl trying to Figure-out stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvee17&label=Profile%20views&color=0e75b6&style=plastic" alt="hetvee17" /> </p>
