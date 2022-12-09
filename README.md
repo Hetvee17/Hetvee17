@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hetvee17](https://github.com/Hetvee17)
               
-- 💬 Ask me about **C/C++, OOP, Javascript, React, Python, MySQL, Node Js, Redux, Node Js, Express Js, Django, JQuery, **
+- 💬 Ask me about **C/C++, OOP, Javascript, React, Python, MySQL, Node Js, Redux, Node Js, Express Js, Django, JQuery**
 
 - 📫 How to reach me **hetu.sakaria@gmail.com**
 
