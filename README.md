@@ -1,15 +1,15 @@
-<h1 align="center">Hello, I'm Hetvee sakaria</h1>
-<h3 align="center">A Girl trying to Figure-out stuff!!</h3>
+<h1 align="center">Hello, I'm Hetvee Sakaria</h1>
+<h3 align="center">A Girl loves to explore new things EVERYDAY...!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hetvee17&label=Profile%20views&color=0e75b6&style=plastic" alt="hetvee17" /> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently learning **Block Chain**
 
 - 👯 I’m looking to collaborate on **Web Application Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hetvee17](https://github.com/Hetvee17)
               
-- 💬 Ask me about **C/C++, OOP, Javascript, React, Python, MySQL, Node Js, Redux, React Native**
+- 💬 Ask me about **C/C++, OOP, Javascript, React, Python, MySQL, Node Js, Redux, Node Js, Express Js, Django, JQuery, **
 
 - 📫 How to reach me **hetu.sakaria@gmail.com**
 
